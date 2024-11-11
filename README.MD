@@ -1,6 +1,6 @@
 # Hackintosh EFI Coffee lake
 
-![alt text](https://github.com/mozoou/hackintosh-efi/master/info.png)
+![alt text](https://github.com/Mozoou/Coffee-Lake-Hackintosh/blob/master/info.png)
 
 ## How to use this EFI
 
