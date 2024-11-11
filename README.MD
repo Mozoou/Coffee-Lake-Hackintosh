@@ -8,8 +8,7 @@
 - this EFI use USBInjectAll if you want to feel real USB 3.0 you can map your USB port with [USBMap](https://github.com/corpnewt/USBMap) and change enable key from `config.plist` `Kernel > Add > USBMap.kext` and disable `Kernel > Add > USBInjectAll.kext`
 
 ## Generate SMBIOS
-
-
+- TODO
 
 ## Build
 
